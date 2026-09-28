@@ -1,0 +1,21 @@
+{
+  "name": "dandelion-wind",
+  "version": "1.0.0",
+  "description": "蒲公英 · 风过之处 — Remotion recreation",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Dandelion out/dandelion.mp4",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.220",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.220"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  },
+  "private": true
+}
